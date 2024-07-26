@@ -21,7 +21,8 @@ namespace sale.Entities{
             + " $ " + Price.ToString("F2", CultureInfo.InvariantCulture) 
             + "(Customs fee: $ " 
             + CostomsFre.ToString("F2", CultureInfo.InvariantCulture)
-            + ")";        }
+            + ")"
+            + "teste de atualização Git";        }
 
        
     }
